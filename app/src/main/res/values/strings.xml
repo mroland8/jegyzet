@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jegyzet</string>
+
+    <string-array name="cim">
+        <item>jegyzet 1</item>
+        <item>jegyzet 2</item>
+        <item>jegyzet 3</item>
+        <item>jegyzet 4</item>
+        <item>jegyzet 5</item>
+    </string-array>
+</resources>

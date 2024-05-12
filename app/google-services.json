@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419533570513",
+    "project_id": "mobilalk-d84c1",
+    "storage_bucket": "mobilalk-d84c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419533570513:android:f08d9669f6e48f1fb7a0f0",
+        "android_client_info": {
+          "package_name": "com.example.jegyzet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoMtUjDQjDKu4aM-EY8UGQYaqC0d6-4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
